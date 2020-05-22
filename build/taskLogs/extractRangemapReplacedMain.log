@@ -1,0 +1,19 @@
+Symbol range map extraction starting
+Processing 17 files
+processing me\sakizcapes\SakizCapes.java
+processing me\sakizcapes\cape\CapeDownloader.java
+processing me\sakizcapes\cape\CapeLayer.java
+processing me\sakizcapes\cape\CapeMode.java
+processing me\sakizcapes\commands\SCCommand.java
+processing me\sakizcapes\commons\Multithreading.java
+processing me\sakizcapes\commons\Settings.java
+processing me\sakizcapes\commons\SimpleSender.java
+processing me\sakizcapes\listeners\EntityWorldJoinListener.java
+processing me\sakizcapes\proxy\ClientProxy.java
+processing me\sakizcapes\proxy\IProxy.java
+processing me\sakizcapes\proxy\ServerProxy.java
+processing me\sakizcapes\utils\ChatColor.java
+processing me\sakizcapes\utils\ImageUtils.java
+processing me\sakizcapes\utils\Reference.java
+processing me\sakizcapes\utils\WingsUtil.java
+processing me\sakizcapes\wing\WingRenderer.java

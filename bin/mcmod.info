@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sakizcapes",
+  "name": "Sakiz Capes",
+  "description": "Get your free cape!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SakizciAdam"],
+  "credits": "SakizciAdam",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
